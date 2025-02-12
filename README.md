@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="500" alt="stats graph"  />
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="150" alt="stats graph"  />
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ## About Me:
@@ -10,13 +10,14 @@
    </div>
 
   - ✨ I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime
-  - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />, docker 🐳, Machine Learning ![alt text](image.png), Big Data ![alt text](image-1.png) in an autonomous way
+  - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />, docker 🐳, Machine Learning <img src="https://github.com/MNooker/MNooker/blob/main/image-1.png" width="17" />, Big Data <img src="https://github.com/MNooker/MNooker/blob/main/image-1.png" width="17" /> ![alt text](image-4.png)in an autonomous way
   - 🎯 Goals: speak spanish and english 🚀
-  - 🎲 And ... i play ![alt text](image-3.png) reading and ![alt text](image-2.png) watch anime
+  - 🎲 And ... i play ![alt text](image-3.png) reading <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" /> and ! watch anime <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" />
+  - ⚡ Fun fact: My learning was mostly autonomous![alt text](image-5.png) <img src="https://github.com/MNooker/MNooker/blob/main/image-5.png" width="17" />. 
   <div align="right">
     <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-  - ⚡ Fun fact: My learning was mostly autonomous. 
+  
   </div>
 
 ## I code with
@@ -61,6 +62,17 @@
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
@@ -143,10 +155,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
