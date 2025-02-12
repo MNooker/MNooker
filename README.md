@@ -1,8 +1,8 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="350" alt="stats graph"  />
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="2250" alt="stats graph"  />
 
 ## About Me:
-<div align="center">
+<div align="left">
   <div align="right">
     <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
    </div>
@@ -67,15 +67,9 @@
 </picture>
 
 # 📊 GitHub Stats:
-<br/>
-<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)
-<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
 
