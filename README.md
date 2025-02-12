@@ -3,7 +3,7 @@
 <img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="150" alt="stats graph"  />
 
 # 💫 About Me:
-# Hi there 👋<br>🔭 I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime.<br>🌱 I am currently learning Machine Learning, Big Data in an autonomous way.<br>💬 Ask me about Anime and technology.<br>😄 Pronouns: He / Him.<br>⚡ Fun fact: My learning was mostly autonomous. 
+# Hi there 👋<br>🔭 I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime.<br>🌱 I am currently learning Machine Learning, Big Data in an autonomous way.<br>💬 Ask me about Anime and technology.<br>😄 Pronouns: He / Him.<br>⚡ Fun fact: My learning was mostly autonomous. <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 # 💻 Tech Stack:
 
