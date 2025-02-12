@@ -1,5 +1,5 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="200" alt="stats graph"  />
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="220" alt="stats graph"  />
 
 ## About Me:
 <div align="left">
