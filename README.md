@@ -1,6 +1,6 @@
 
-![ banner de MNooker]
 
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="150" alt="stats graph"  />
 
 # 💫 About Me:
 # Hi there 👋<br>🔭 I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime.<br>🌱 I am currently learning Machine Learning, Big Data in an autonomous way.<br>💬 Ask me about Anime and technology.<br>😄 Pronouns: He / Him.<br>⚡ Fun fact: My learning was mostly autonomous. 
