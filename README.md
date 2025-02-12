@@ -1,5 +1,5 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="2250" alt="stats graph"  />
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="250" alt="stats graph"  />
 
 ## About Me:
 <div align="left">
@@ -12,10 +12,6 @@
   - 🎯 Goals: speak spanish and english 🚀
   - 🎲 And i like reading <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" /> and watch anime <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" />
   - ⚡ Fun fact: My learning was mostly autonomous<img src="https://github.com/MNooker/MNooker/blob/main/image-5.png" width="17" />!. 
-  <div align="right">
-    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-  
-  </div>
 
 ## 💻 I code with 💻
 
@@ -58,6 +54,15 @@
 <a href="https://storybook.js.org" target="_blank">
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
+<a href="https://storybook.js.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" title="Python" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://storybook.js.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/cisco.svg" height="30" alt="linux logo"  />
+</a>
 
 
 <picture>
@@ -67,9 +72,11 @@
 </picture>
 
 # 📊 GitHub Stats:
-
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)
-<br/>![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/><div align="justify"!>[](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </div>
+</div>
 
 # 💻 Tech Stack:
 
@@ -106,7 +113,7 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/cloud9.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/cisco.svg" height="30" alt="linux logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/bitbucket.svg" height="30" alt="bitbucket logo"  />
   <img width="12" />
