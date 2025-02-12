@@ -1,16 +1,72 @@
 
 
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="150" alt="stats graph"  />
+<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="500" alt="stats graph"  />
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-# 💫 About Me:
-# Hi there 👋<br>🔭 I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime.<br>🌱 I am currently learning Machine Learning, Big Data in an autonomous way.<br>💬 Ask me about Anime and technology.<br>😄 Pronouns: He / Him.<br>⚡ Fun fact: My learning was mostly autonomous. <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+## About Me:
+<div align="center">
+  <div align="right">
+    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+   </div>
+
+  - ✨ I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime
+  - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />, docker 🐳, Machine Learning ![alt text](image.png), Big Data ![alt text](image-1.png) in an autonomous way
+  - 🎯 Goals: speak spanish and english 🚀
+  - 🎲 And ... i play ![alt text](image-3.png) reading and ![alt text](image-2.png) watch anime
+  <div align="right">
+    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+  - ⚡ Fun fact: My learning was mostly autonomous. 
+  </div>
+
+## I code with
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
+
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
+
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
+</a>
+
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
+
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
+
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
+
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
 
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 ###
@@ -58,7 +114,7 @@
   <img width="12" />
 </div>
 
-
+###
 
 
 # 🌐 Socials
@@ -70,7 +126,8 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@RotoSebas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@angelito_sebas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoseSebastian) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_Nooker) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29619975) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nook3r_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@MNooker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Nooker) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@nooker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nooker106@gmail.com) 
 ###
 
@@ -79,21 +136,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-<!--
-**MNooker/MNooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
