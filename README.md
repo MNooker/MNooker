@@ -11,7 +11,7 @@
   - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />, docker 🐳, Machine Learning <img src="https://github.com/MNooker/MNooker/blob/main/image-1.png" width="17" />, Big Data <img src="https://github.com/MNooker/MNooker/blob/main/image-4.png" width="17" />! in an autonomous way
   - 🎯 Goals: speak spanish and english 🚀
   - 🎲 And i like reading <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" /> and watch anime <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" />
-  - ⚡ Fun fact: My learning was mostly autonomous![alt text](image-5.png) <img src="https://github.com/MNooker/MNooker/blob/main/image-5.png" width="17" />. 
+  - ⚡ Fun fact: My learning was mostly autonomous<img src="https://github.com/MNooker/MNooker/blob/main/image-5.png" width="17" />!. 
   <div align="right">
     <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
   
@@ -69,22 +69,13 @@
 # 📊 GitHub Stats:
 <br/>
 <br/>
-
-
-###
-<div align="center">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)
-</div>
-
-###
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
-</div>
-
-###
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
 
