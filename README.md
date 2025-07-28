@@ -1,3 +1,52 @@
+<div align="center">
+  <table width="100%" style="max-width: 800px; border: none; background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDgwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSIxNCIgaGVpZ2h0PSIyNCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTSAxNCAwIEwgMCAwIEwgMCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJyZ2JhKDE1MCwgMTUwLCAxNTAsIDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPjwvcGF0dGVybj48bWFzayBpZD0ibWFzayI+PHJhZGlhbEdyYWRpZW50IGlkPSJnIiBjeD0iNTAlIiBjeT0iMCUiIHI9IjgwJSI+PHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAiIHN0b3Atb3BhY2l0eT0iMCIvPjwvcmFkaWFsR3JhZGllbnQ+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNnKSIvPjwvbWFzaz48L2RlZnM+PHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjAiIGZpbGw9InVybCgjZ3JpZCkiIG1hc2s9InVybCgjbWFzaykiLz48L3N2Zz4='); background-position: center top; background-repeat: no-repeat;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 20px 0;">
+        <div align="center">
+          <h1 style="margin-bottom: 0px; margin-top: 10px;">José Sebastián</h1>
+          <p style="margin-top: 8px; margin-bottom: 8px;"><em>T.S.U. Full Stack Developer | AI/ML Engineer | Security Management</em></p>
+          <p style="margin-top: 8px; margin-bottom: 20px;"><sub>Building intelligent solutions with cutting-edge technology</sub></p>
+          <p>
+            <a href="URL_A_TU_CERTIFICADO_O_EDUCACION" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/award.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">T.S.U. Certified</span>
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="URL_A_TU_PERFIL_DEV" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">Developer</span>
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="URL_A_PROYECTO_AI" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">AI/ML Engineer</span>
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="URL_A_PROYECTO_SECURITY" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/shield.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">Security</span>
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="URL_A_TU_MAPA_O_CIUDAD" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/map-pin.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">Chihuahua, México</span>
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="mailto:TU_CORREO@ejemplo.com" style="text-decoration: none; color: inherit;">
+              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/briefcase.svg" height="13px" style="vertical-align: middle;"/>
+              <span style="vertical-align: middle; font-size: 8px;">Available for Hire</span>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="250" alt="stats graph"  />
 
