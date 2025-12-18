@@ -12,48 +12,27 @@
         <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
           <img src="https://unpkg.com/feather-icons/dist/icons/award.svg" width="12" style="vertical-align:middle;"/> T.S.U. Certified
         </span>
+        &nbsp;&nbsp;&nbsp;src="https://raw.githubusercontent.com/feathericons/feather/master/icons/shield.svg" height="13px" style="vertical-align: middle;"
         <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
           <img src="https://unpkg.com/feather-icons/dist/icons/cpu.svg" width="12" style="vertical-align:middle;"/> AI/ML Engineer
         </span>
+        &nbsp;&nbsp;&nbsp;
         <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
           <img src="https://unpkg.com/feather-icons/dist/icons/bar-chart-2.svg" width="12" style="vertical-align:middle;"/> Data Analyst
         </span>
+        &nbsp;&nbsp;&nbsp;
         <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
           <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" height="13px" style="vertical-align: middle;"/> Developer
         </span>
+        &nbsp;&nbsp;&nbsp;
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/shield.svg" height="13px" style="vertical-align: middle;"/> Cibersecurity
+        </span>
+        &nbsp;&nbsp;&nbsp;
         <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
           <img src="https://unpkg.com/feather-icons/dist/icons/briefcase.svg" width="12" style="vertical-align:middle;"/> Available for Hire
         </span>
       </div>
-            <a href="URL_A_TU_CERTIFICADO_O_EDUCACION" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/award.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">T.S.U. Certified</span>
-            </a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="URL_A_TU_PERFIL_DEV" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">Developer</span>
-            </a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="URL_A_PROYECTO_AI" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">AI/ML Engineer</span>
-            </a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="URL_A_PROYECTO_SECURITY" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/shield.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">Security</span>
-            </a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="URL_A_TU_MAPA_O_CIUDAD" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/map-pin.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">Chihuahua, México</span>
-            </a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="mailto:TU_CORREO@ejemplo.com" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/briefcase.svg" height="13px" style="vertical-align: middle;"/>
-              <span style="vertical-align: middle; font-size: 12px;">Available for Hire</span>
-            </a>
           </p>
         </div>
       </td>
@@ -62,42 +41,6 @@
 </div>
 
 ---
-
-
-
-
-<!-- Main Header Card - Professional Style with Radial Mask -->
-<div align="center" style="margin: 20px 0;">
-  <div style="width: 90%; max-width: 800px; margin: 0 auto; border: 2px solid #0e0e0e; border-radius: 12px; background: white; position: relative; height: 220px;">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; top: 0; background: white; background-image: linear-gradient(to right, #4f4f4f2e 1px, transparent 1px), linear-gradient(to bottom, #4f4f4f2e 1px, transparent 1px); background-size: 14px 24px; -webkit-mask-image: radial-gradient(ellipse 80% 50% at 50% 0%, #000 70%, transparent 110%); mask-image: radial-gradient(ellipse 80% 50% at 50% 0%, #000 70%, transparent 110%); border-radius: 10px;"></div>
-    <div style="position: relative; z-index: 1; text-align: center; height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 15px 20px 15px 20px;">
-      <!-- Main Content -->
-      <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; margin-top: -35px;">
-        <h1 style="margin: 0 0 8px 0; padding: 1px; font-size: 2.4em; font-weight: 800; color: #0e0e0e; letter-spacing: -0.02em;">José Sebastián</h1>
-        <h3 style="margin: 0 0 8px 0; font-size: 1.4em; font-weight: 600; color: #1b1b1b;">Full Stack Developer & AI/ML Engineer</h3>
-        <p style="margin: 0; font-size: 1.1em; color: #292929; font-style: italic; font-weight: 400; letter-spacing: 0.5px;">Building intelligent solutions with cutting-edge technology</p>
-      </div>
-      <!-- Professional Badges at Bottom -->
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 100%; margin-bottom: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
-          <img src="https://unpkg.com/feather-icons/dist/icons/award.svg" width="12" style="vertical-align:middle;"/> T.S.U. Certified
-        </span>
-        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
-          <img src="https://unpkg.com/feather-icons/dist/icons/cpu.svg" width="12" style="vertical-align:middle;"/> AI/ML Engineer
-        </span>
-        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
-          <img src="https://unpkg.com/feather-icons/dist/icons/bar-chart-2.svg" width="12" style="vertical-align:middle;"/> Data Analyst
-        </span>
-        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
-          <img src="https://unpkg.com/feather-icons/dist/icons/map-pin.svg" width="12" style="vertical-align:middle;"/> Chihuahua, México
-        </span>
-        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
-          <img src="https://unpkg.com/feather-icons/dist/icons/briefcase.svg" width="12" style="vertical-align:middle;"/> Available for Hire
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Typing Effect - Matching image style
 <div align="center" style="margin: 25px 0;">
@@ -109,22 +52,6 @@
   </p>
 </div>
 -->
-
-<!-- GitHub Stats Row - Matching image style
-<div align="center" style="margin: 25px 0;">
-  <span style="display: inline-block; margin: 0 8px; padding: 4px 8px; background: #555; color: white; border-radius: 3px; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-    Profile Views 0
-  </span>
-  <span style="display: inline-block; margin: 0 8px; padding: 4px 8px; background: #555; color: white; border-radius: 3px; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-    👥 Followers 0
-  </span>
-  <span style="display: inline-block; margin: 0 8px; padding: 4px 8px; background: #555; color: white; border-radius: 3px; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-    ⭐ Stars 1
-  </span>
-</div>
--->
-
-</div>
 
 <div style="margin: 50px 0;"></div>
 
@@ -971,95 +898,10 @@ _Data Analysis_
 ---
 
 
-
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<img src="https://github.com/MNooker/MNooker/blob/main/github-header-image.png?raw=true" height="250" alt="stats graph"  />
-
-## About Me:
-<div align="left">
-  <div align="right">
-    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlbGVsMmU5YnFpemY2bmoxbnI5NmIzZmEzdGY3NndvczZya3RvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-   </div>
-
-  - ✨ I am currently a student of Information Technology area Virtual Environments and Digital Business at the technological university of paquime
-  - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />, docker 🐳, Machine Learning <img src="https://github.com/MNooker/MNooker/blob/main/image-1.png" width="17" />, Big Data <img src="https://github.com/MNooker/MNooker/blob/main/image-4.png" width="17" />! in an autonomous way
-  - 🎯 Goals: speak spanish and english 🚀
-  - 🎲 And i like reading <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" /> and watch anime <img src="https://github.com/MNooker/MNooker/blob/main/image-2.png" width="17" />
-  - ⚡ Fun fact: My learning was mostly autonomous<img src="https://github.com/MNooker/MNooker/blob/main/image-5.png" width="17" />!. 
-
-# 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@RotoSebas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@angelito_sebas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoseSebastian) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_Nooker) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29619975) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nook3r_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@MNooker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Nooker) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@nooker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nooker106@gmail.com) 
-
-
-## 💻 I code with 💻
-
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</a>
-
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a>
-
-<a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
-</a>
-
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</a>
-
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
-</a>
-
-<a href="https://go.dev" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
-</a>
-
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
-</a>
-
-<a href="https://jestjs.io/pt-BR/" target="_blank">
-  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
-</a>
-
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
-
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
-<a href="https://www.python" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</a>
-<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
-  <img align="left" title="CSharp" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</a>
-<a href="https://linux.org" target="_blank">
-  <img align="left" title="Linux" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/cisco.svg" height="30" alt="linux logo"  />
-</a>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MNooker&theme=nord&hide_border=false)
-[](https://github-readme-stats.vercel.app/api?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNooker&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 💻 Other languages i use 💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
