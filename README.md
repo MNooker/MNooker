@@ -7,6 +7,24 @@
           <p style="margin-top: 8px; margin-bottom: 8px;"><em>T.S.U. Full Stack Developer | AI/ML Engineer | Security Management</em></p>
           <p style="margin-top: 8px; margin-bottom: 20px;"><sub>Building intelligent solutions with cutting-edge technology</sub></p>
           <p>
+            <!-- Professional Badges at Bottom -->
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 100%; margin-bottom: 15px;">
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://unpkg.com/feather-icons/dist/icons/award.svg" width="12" style="vertical-align:middle;"/> T.S.U. Certified
+        </span>
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://unpkg.com/feather-icons/dist/icons/cpu.svg" width="12" style="vertical-align:middle;"/> AI/ML Engineer
+        </span>
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://unpkg.com/feather-icons/dist/icons/bar-chart-2.svg" width="12" style="vertical-align:middle;"/> Data Analyst
+        </span>
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" height="13px" style="vertical-align: middle;"/> Developer
+        </span>
+        <span style="display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: #292929; font-weight: 500;">
+          <img src="https://unpkg.com/feather-icons/dist/icons/briefcase.svg" width="12" style="vertical-align:middle;"/> Available for Hire
+        </span>
+      </div>
             <a href="URL_A_TU_CERTIFICADO_O_EDUCACION" style="text-decoration: none; color: inherit;">
               <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/award.svg" height="13px" style="vertical-align: middle;"/>
               <span style="vertical-align: middle; font-size: 12px;">T.S.U. Certified</span>
@@ -45,23 +63,8 @@
 
 ---
 
-# José Sebastián | Full Stack Developer & AI/ML Engineer
 
-<div align="center">
-  <img width="800" height="200" src="https://via.placeholder.com/800x200/f8f9fa/1c1c1c?text=José+Sebastián+%7C+Full+Stack+Developer+%26+AI%2FML+Engineer">
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/T.S.U.-Certified-blue?style=flat-square&logo=graduation-cap">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-green?style=flat-square&logo=brain">
-  <img src="https://img.shields.io/badge/Data-Analyst-orange?style=flat-square&logo=chart-bar">
-  <img src="https://img.shields.io/badge/Location-Chihuahua%2C%20México-red?style=flat-square&logo=map-pin">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square&logo=briefcase">
-</div>
 
-<br>
-
-<div align="center">
 
 <!-- Main Header Card - Professional Style with Radial Mask -->
 <div align="center" style="margin: 20px 0;">
